@@ -14,6 +14,7 @@ Generated Files
 Each generated file, besid the getters and setters (for Java) can include:
 * A constructor wich accepts an instance of NSDictionary, JSON, JSONObject instance depending on the file language, and the class will use this object to fill its properties data.
 * A utility method which converts the class data into a dictionary again.
+* You can download JSOnExport.app directly from HERE.
 
 Currently supported languages
 ========================
@@ -27,13 +28,14 @@ Currently you can convert your JSON object to one of the following languages:
 6. Swift Classes for [Realm](http://realm.io).
 7. Swift - CoreData.
 8. Swift Structures.
-9. Swift Structures for [Gloss](https://github.com/hkellaway/Gloss)
-10. Swift Mappable Classes for (Swift 3) [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
-11. Swift Structures for [Unbox](https://github.com/JohnSundell/Unbox)
-12. Objective-C - iOS.
-13. Objective-C - MAC.
-14. Objective-C - CoreData.
-15. Objective-C for [Realm](http://realm.io) iOS.
+9. Swift Class - ViewModel - WSResponseData.
+10. Swift Structures for [Gloss](https://github.com/hkellaway/Gloss)
+11. Swift Mappable Classes for (Swift 3) [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
+12. Swift Structures for [Unbox](https://github.com/JohnSundell/Unbox)
+13. Objective-C - iOS.
+14. Objective-C - MAC.
+15. Objective-C - CoreData.
+16. Objective-C for [Realm](http://realm.io) iOS.
 
 
 
