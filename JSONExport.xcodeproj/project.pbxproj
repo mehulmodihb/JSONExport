@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		01ACC24B1FBB42E300C410C2 /* Swift-Codable.json in Resources */ = {isa = PBXBuildFile; fileRef = 01ACC24A1FBB42E300C410C2 /* Swift-Codable.json */; };
 		166AF5CE1CEF6C3600516EDD /* Swift-Struct-Gloss.json in Resources */ = {isa = PBXBuildFile; fileRef = 166AF5CD1CEF6C3600516EDD /* Swift-Struct-Gloss.json */; };
+		27EF85392316B70A0068DD63 /* Swift-Class-ViewModel-WSResponseData.json in Resources */ = {isa = PBXBuildFile; fileRef = 27EF85382316B70A0068DD63 /* Swift-Class-ViewModel-WSResponseData.json */; };
 		608896441CF278440074CB80 /* Author.swift in Sources */ = {isa = PBXBuildFile; fileRef = 608896431CF278440074CB80 /* Author.swift */; };
 		60FB8FF01B9B361600290979 /* Java-Android Realm.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FE61B9B361600290979 /* Java-Android Realm.json */; };
 		60FB8FF11B9B361600290979 /* Java-Android.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FE71B9B361600290979 /* Java-Android.json */; };
@@ -50,6 +51,7 @@
 /* Begin PBXFileReference section */
 		01ACC24A1FBB42E300C410C2 /* Swift-Codable.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-Codable.json"; path = "Supported Languages/Swift-Codable.json"; sourceTree = "<group>"; };
 		166AF5CD1CEF6C3600516EDD /* Swift-Struct-Gloss.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-Struct-Gloss.json"; path = "Supported Languages/Swift-Struct-Gloss.json"; sourceTree = "<group>"; };
+		27EF85382316B70A0068DD63 /* Swift-Class-ViewModel-WSResponseData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-Class-ViewModel-WSResponseData.json"; path = "Supported Languages/Swift-Class-ViewModel-WSResponseData.json"; sourceTree = "<group>"; };
 		608896431CF278440074CB80 /* Author.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Author.swift; sourceTree = "<group>"; };
 		60FB8FE61B9B361600290979 /* Java-Android Realm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Java-Android Realm.json"; path = "Supported Languages/Java-Android Realm.json"; sourceTree = "<group>"; };
 		60FB8FE71B9B361600290979 /* Java-Android.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Java-Android.json"; path = "Supported Languages/Java-Android.json"; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 		E2F07E8A1A0B3192004A1DAA /* Supported Languages */ = {
 			isa = PBXGroup;
 			children = (
+				27EF85382316B70A0068DD63 /* Swift-Class-ViewModel-WSResponseData.json */,
 				E24E443021AA12B800435FE7 /* Swift-Outlaw.json */,
 				E24E443121AA12B800435FE7 /* Swift3-Mappable.json */,
 				166AF5CD1CEF6C3600516EDD /* Swift-Struct-Gloss.json */,
@@ -313,6 +316,7 @@
 				E24E443221AA12B800435FE7 /* Swift-Outlaw.json in Resources */,
 				166AF5CE1CEF6C3600516EDD /* Swift-Struct-Gloss.json in Resources */,
 				60FB8FF41B9B361600290979 /* ObjectiveC-Mac.json in Resources */,
+				27EF85392316B70A0068DD63 /* Swift-Class-ViewModel-WSResponseData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
