@@ -14,7 +14,11 @@ Generated Files
 Each generated file, besid the getters and setters (for Java) can include:
 * A constructor wich accepts an instance of NSDictionary, JSON, JSONObject instance depending on the file language, and the class will use this object to fill its properties data.
 * A utility method which converts the class data into a dictionary again.
-* You can download JSOnExport.app directly from HERE.
+
+Download Executable
+========================
+
+* [You can download executable directly from HERE.](https://github.com/mehulmodihb/JSONExport/blob/master/JSONExport.zip?raw=true)
 
 Currently supported languages
 ========================
