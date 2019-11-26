@@ -33,6 +33,15 @@
 
 import Cocoa
 
+class MainWindowController: NSWindowController, NSWindowDelegate {
+    
+    func windowShouldClose(_ sender: NSWindow) -> Bool {
+        NSApp.hide(nil)
+        return false
+    }
+    
+}
+
 class ViewController: NSViewController, NSUserNotificationCenterDelegate, NSTableViewDelegate, NSTableViewDataSource, NSTextViewDelegate {
     
     //Shows the list of files' preview
